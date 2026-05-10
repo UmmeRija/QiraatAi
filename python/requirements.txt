@@ -1,0 +1,23 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+transformers
+torch
+librosa
+soundfile
+fastdtw
+scikit-learn
+scipy
+python-multipart
+pydantic
+python-dotenv
+noisereduce
+pydub
+# audioop-lts
+numpy
+watchfiles
+requests
+faster-whisper
+google-auth
+passlib
+python-jose[cryptography]
